@@ -47,7 +47,8 @@ If you prefer a visual walkthrough, watch my complete guide on how to assemble a
 
 [![Watch the Video](https://img.youtube.com/vi/v7MYOpWONuY/0.jpg)](https://www.youtube.com/watch?v=v7MYOpWONuY)
 
-[Click here to watch on YouTube](https://www.youtube.com/watch?v=v7MYOpWONuY)
+
+[Click here to watch on YouTube](https://img.youtube.com/vi/v7MYOpWONuY/0.jpg)](https://www.youtube.com/watch?v=v7MYOpWONuY)
 
 ## 🛠 Technical Skills
 
