@@ -45,11 +45,11 @@ Before performing any hardware tasks, students must adhere to the following:
 ---## 📺 Video Tutorial
 If you prefer a visual walkthrough, watch my complete guide on how to assemble a modern PC system unit safely:
 
-[![Watch the Video](https://img.youtube.com/vi/v7MYOpWONuY/0.jpg)](https://www.youtube.com/watch?v=v7MYOpWONuY)
+[![Watch the Video]
+https://youtu.be/mozlEPyeVAY?si=rD3mpMHEmYk6xMx4
 
 
-[Click here to watch on YouTube](https://img.youtube.com/vi/v7MYOpWONuY/0.jpg)](https://www.youtube.com/watch?v=v7MYOpWONuY)
-
+[Click here to watch on YouTube](https://youtu.be/mozlEPyeVAY?si=rD3mpMHEmYk6xMx4
 ## 🛠 Technical Skills
 
 This project demonstrates knowledge in:
