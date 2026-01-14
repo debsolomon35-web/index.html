@@ -1,7 +1,7 @@
 # PC System Unit & PSU Servicing Guide
 
 ### 🛠️ A Comprehensive Tutorial on Computer Hardware Assembly
-
+https://img.youtube.com/vi/v7MYOpWONuY/0.jpg
 Welcome to the **System Unit Servicing Portal**. This project is a web-based educational guide designed to teach the fundamentals of disassembling and assembling a PC system unit and its power supply safely.
 
 ---
@@ -42,7 +42,12 @@ Before performing any hardware tasks, students must adhere to the following:
 * **Storage Devices:** Mounting SATA and M.2 SSDs.
 * **GPU:** PCIe slot handling and bracket mounting.
 
----
+---## 📺 Video Tutorial
+If you prefer a visual walkthrough, watch my complete guide on how to assemble a modern PC system unit safely:
+
+[![Watch the Video](https://img.youtube.com/vi/v7MYOpWONuY/0.jpg)](https://www.youtube.com/watch?v=v7MYOpWONuY)
+
+[Click here to watch on YouTube](https://www.youtube.com/watch?v=v7MYOpWONuY)
 
 ## 🛠 Technical Skills
 
