@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System Unit Guide | Solomon Dave</title>
+    <style>
+        :root { --primary: #2563eb; --dark: #1e293b; --light: #f8fafc; }
+        body { font-family: 'Inter', sans-serif; line-height: 1.6; margin: 0; background: var(--light); color: var(--dark); }
+        nav { background: var(--dark); color: white; padding: 1rem 5%; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; }
+        .hero { background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1591405351990-4726e33df48b?auto=format&fit=crop&q=80'); height: 300px; display: flex; align-items: center; justify-content: center; color: white; text-align: center; }
+        .container { max-width: 900px; margin: -50px auto 50px; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); }
+        h2 { color: var(--primary); border-left: 5px solid var(--primary); padding-left: 15px; margin-top: 40px; }
+        .step-card { display: flex; gap: 20px; margin-bottom: 25px; align-items: flex-start; }
+        .number { background: var(--primary); color: white; min-width: 35px; height: 35px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+        .safety-box { background: #fff4e5; border: 1px solid #ffa117; padding: 20px; border-radius: 8px; margin-bottom: 30px; }
+        footer { text-align: center; padding: 30px; background: var(--dark); color: white; }
+    </style>
+</head>
+<body>
+
+<nav>
+    <div style="font-size: 1.5rem; font-weight: bold;">PC Master Class</div>
+</nav>
+
+<div class="hero">
+    <h1>System Unit: Disassembly & Assembly</h1>
+</div>
+
+<div class="container">
+    <div class="safety-box">
+        <strong>⚠️ Safety First:</strong> Always unplug the power cord and press the power button for 5 seconds to drain static electricity. Use an anti-static wrist strap or touch a metal part of the case frequently.
+    </div>
+
+    <h2>Phase 1: Disassembly</h2>
+    <p>Removing components requires patience. Never force a part if it feels stuck.</p>
+    
+    <div class="step-card">
+        <div class="number">1</div>
+        <div><strong>Remove Side Panels:</strong> Unscrew the thumb-screws at the rear and slide the panels off to reveal the internals.</div>
+    </div>
+
+    <div class="step-card">
+        <div class="number">2</div>
+        <div><strong>Unplug Cables:</strong> Carefully remove the 24-pin motherboard cable, CPU power, SATA cables, and GPU power connectors.</div>
+    </div>
+
+    <div class="step-card">
+        <div class="number">3</div>
+        <div><strong>Remove Expansion Cards:</strong> Unscrew the GPU from the case bracket, press the PCIe slot tab, and pull the card straight out.</div>
+    </div>
+
+    <div class="step-card">
+        <div class="number">4</div>
+        <div><strong>Extract Motherboard:</strong> Unscrew the standoff screws holding the board to the case. Lift gently, ensuring no ports are caught in the I/O shield.</div>
+    </div>
+
+    <h2>Phase 2: Assembly</h2>
+    <p>Building it back is the reverse process, with a focus on cable management.</p>
+
+    <div class="step-card">
+        <div class="number">1</div>
+        <div><strong>Install I/O Shield & Motherboard:</strong> Snap the shield into the case first, then align the motherboard with the standoffs and screw it down.</div>
+    </div>
+
+    <div class="step-card">
+        <div class="number">2</div>
+        <div><strong>Seat RAM and CPU:</strong> If not already installed, place the CPU into the socket and click the RAM sticks into their slots until they "snap."</div>
+    </div>
+
+    <div class="step-card">
+        <div class="number">3</div>
+        <div><strong>Connect Power Supply:</strong> Plug in the 24-pin and 8-pin cables. Route them through the back of the case for better airflow.</div>
+    </div>
+
+    <div class="step-card">
+        <div class="number">4</div>
+        <div><strong>Final Check:</strong> Ensure all fans are plugged in and the CPU cooler is seated firmly before powering on.</div>
+    </div>
+</div>
+
+<footer>
+    &copy; 2026 Solomon Dave | Computer Systems Servicing Portal
+</footer>
+
+</body>
+</html>
