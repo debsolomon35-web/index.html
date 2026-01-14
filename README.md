@@ -1,5 +1,4 @@
 ## ⚠️ Safety Protocols
-
 Before performing any hardware tasks, students must adhere to the following:
 
 ![PC Safety and Static Protection](https://images.unsplash.com/photo-1591405351990-4726e33df48b?auto=format&fit=crop&q=80&w=800)
@@ -42,4 +41,4 @@ This project demonstrates knowledge in:
 **Solomon Dave** and earl Christian palad
 *Grade 12 stem bendixson*
 
--
+
