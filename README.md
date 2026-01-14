@@ -1,34 +1,13 @@
-# PC System Unit & PSU Servicing Guide
-
-### 🛠️ A Comprehensive Tutorial on Computer Hardware Assembly
-https://img.youtube.com/vi/v7MYOpWONuY/0.jpg
-Welcome to the **System Unit Servicing Portal**. This project is a web-based educational guide designed to teach the fundamentals of disassembling and assembling a PC system unit and its power supply safely.
-
----
-
-## 📖 Table of Contents
-
-* [Features](https://www.google.com/search?q=%23features)
-* [Safety Protocols](https://www.google.com/search?q=%23-safety-protocols)
-* [Components Covered](https://www.google.com/search?q=%23-components-covered)
-* [Technical Skills](https://www.google.com/search?q=%23technical-skills)
-* [Author](https://www.google.com/search?q=%23author)
-
----
-
-## ✨ Features
-
-* **Step-by-Step Disassembly:** Detailed instructions on the "Last Out, First In" methodology.
-* **Assembly Best Practices:** Tips on thermal paste application and cable management.
-* **Interactive Design:** A clean, responsive HTML/CSS interface for easy reading.
-* **Safety Warnings:** Critical information regarding high-voltage components like the PSU.
-
----
-
 ## ⚠️ Safety Protocols
 
 Before performing any hardware tasks, students must adhere to the following:
 
+![PC Safety and Static Protection](https://images.unsplash.com/photo-1591405351990-4726e33df48b?auto=format&fit=crop&q=80&w=800)
+
+1. **Power Discharge:** Always unplug the AC cord and hold the power button for 5 seconds to drain stored energy.
+2. **Static Protection:** Use an anti-static wrist strap or maintain constant contact with the metal chassis to prevent ESD (Electrostatic Discharge).
+3. **PSU Warning:** **NEVER** open a Power Supply Unit. Capacitors can hold a lethal charge for days even when unplugged.
+4. **Tool Management:** Use magnetized screwdrivers to prevent screws from falling into tight motherboard crevices.
 1. **Power Discharge:** Always unplug the AC cord and hold the power button for 5 seconds.
 2. **Static Protection:** Use an anti-static wrist strap or maintain contact with the metal chassis.
 3. **PSU Warning:** Never open a Power Supply Unit unless you are a certified technician due to lethal capacitor charges.
@@ -60,7 +39,7 @@ This project demonstrates knowledge in:
 
 👤 Author
 
-**Solomon Dave**
-*Computer Systems Servicing Student / Enthusiast*
+**Solomon Dave** and earl Christian palad
+*Grade 12 stem bendixson*
 
 -
